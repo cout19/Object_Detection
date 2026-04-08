@@ -36,8 +36,10 @@ GOTURN Tracker - Deep learning based tracker (requires model)
 Installation
 bash
 # Clone the repository
-git clone https://github.com/yourusername/object_tracking.git
-cd object_tracking
 
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/KubraKolay/Object_Detection.git
+
+cd Object_Detection
+
+
+
